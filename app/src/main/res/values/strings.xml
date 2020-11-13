@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="CityNames">
+        <item>Moscow</item>
+        <item>Saint Petersburg</item>
+        <item>Novosibirsk</item>
+        <item>Ekaterinburg</item>
+        <item>Kazan</item>
+        <item>Nizhny Novgorod</item>
+        <item>Chelyabinsk</item>
+        <item>Samara</item>
+        <item>Omsk</item>
+        <item>Rostov-on-Don</item>
+        <item>Ufa</item>
+        <item>Krasnoyarsk</item>
+        <item>Voronezh</item>
+        <item>Perm</item>
+        <item>Volgograd</item>
+        <item>Krasnodar</item>
+        <item>Saratov</item>
+        <item>Tyumen</item>
+        <item>Tolyatti</item>
+        <item>Izhevsk</item>
+        <item>Barnaul</item>
+        <item>Ulyanovsk</item>
+        <item>Irkutsk</item>
+        <item>Khabarovsk</item>
+        <item>Yaroslavl</item>
+        <item>Vladivostok</item>
+        <item>Makhachkala</item>
+        <item>Tomsk</item>
+        <item>Orenburg</item>
+        <item>Vatutinki</item>
+    </string-array>
+    <string-array name="def">
+        <item>London</item>
+    </string-array>
+</resources>

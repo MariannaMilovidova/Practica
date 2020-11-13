@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/secondFragment">
+
+    <fragment
+        android:id="@+id/firstFragment"
+        android:name="com.example.practica.Fragment_main"
+        android:label="fragment_blank_one"
+        tools:layout="@layout/fragment_main" />
+    <fragment
+        android:id="@+id/secondFragment"
+        android:name="com.example.practica.Fragment_second"
+        android:label="fragment_blank_two"
+        tools:layout="@layout/fragment_second" />
+</navigation>
